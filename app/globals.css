@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+:root {
+  --font-heading: 'Manrope', 'Inter', system-ui, -apple-system, sans-serif;
+  --font-sans: 'Inter', 'Manrope', system-ui, -apple-system, sans-serif;
+  
+  /* Premium Forest-Green Industrial Energy Palette */
+  --bg-forest: #12372A;           /* Deep forest */
+  --bg-video: #0B241B;            /* Very deep forest for video overlays */
+  --color-energy-green: #2F7D57;  /* Main energy green */
+  --color-solar-lime: #B7D957;    /* Fresh solar-lime highlight */
+  --canvas-warm: #F5F7F2;         /* Warm light canvas */
+  --color-white: #FFFFFF;         /* Pure white */
+  --text-ink: #17241D;            /* Main ink */
+  --text-muted: #647368;          /* Muted green-gray */
+  --border-forest: rgba(18, 55, 42, 0.14);
+  --accent-amber: #EDB54A;        /* Optional warm energy accent */
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #12372A;
+  color: #F5F7F2;
+  letter-spacing: -0.011em;
+}
+
+/* Headings: architectural, crisp, commanding technical clarity */
+h1, h2, h3, h4, h5, h6, .font-heading {
+  font-family: var(--font-heading);
+  letter-spacing: -0.025em;
+}
+
+button, [role="button"], .btn {
+  font-weight: 700;
+}
+
+/* Clean energy selection styling */
+::selection {
+  background-color: rgba(47, 125, 87, 0.35);
+  color: #FFFFFF;
+}

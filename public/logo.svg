@@ -1,0 +1,16 @@
+<svg width="240" height="60" viewBox="0 0 240 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Brand Mark: Rooftop Solar Grid Geometry -->
+  <g transform="translate(10, 8)">
+    <rect width="44" height="44" rx="8" fill="#12372A" stroke="rgba(183, 217, 87, 0.35)" stroke-width="1.2" />
+    <!-- 4-cell PV Grid angled for industrial rooftop -->
+    <path d="M12 18L21 16L21 24L12 26Z" fill="#2F7D57" fill-opacity="0.5" stroke="#B7D957" stroke-width="1.4" stroke-linejoin="round"/>
+    <path d="M23 15.6L32 14L32 21.6L23 23.6Z" fill="#2F7D57" fill-opacity="0.6" stroke="#B7D957" stroke-width="1.4" stroke-linejoin="round"/>
+    <path d="M12 28L21 26L21 34L12 36Z" fill="#2F7D57" fill-opacity="0.7" stroke="#B7D957" stroke-width="1.4" stroke-linejoin="round"/>
+    <path d="M23 25.6L32 23.6L32 31.6L23 33.6Z" fill="#2F7D57" fill-opacity="0.8" stroke="#B7D957" stroke-width="1.4" stroke-linejoin="round"/>
+    <!-- Solar Energy Connector -->
+    <circle cx="34" cy="14" r="2.2" fill="#B7D957" />
+  </g>
+  <!-- Brand Typography -->
+  <text x="64" y="27" font-family="'Inter', 'Manrope', -apple-system, sans-serif" font-weight="800" font-size="17" letter-spacing="-0.02em" fill="#FFFFFF">SolEth<tspan fill="#B7D957">.epc</tspan></text>
+  <text x="64" y="42" font-family="'Inter', 'Manrope', -apple-system, sans-serif" font-weight="700" font-size="9" letter-spacing="0.12em" fill="#B7D957">COMMERCIAL SOLAR EPC</text>
+</svg>

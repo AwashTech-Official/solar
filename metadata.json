@@ -1,0 +1,6 @@
+{
+  "name": "SolEth Commercial Solar EPC - Ethiopian Industrial Solar Installer",
+  "description": "Engineered turnkey on-site commercial rooftop solar, battery energy storage (BESS), and generator hybrid microgrids for Ethiopian manufacturing, cold storage, and commercial facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
